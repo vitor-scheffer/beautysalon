@@ -16,6 +16,5 @@ O site pode ser acessado em: https://vitor-scheffer.github.io/beautysalon/
   <li>HTML</li>
   <li>CSS</li>
   <li>Swiper JS</li>
-  <li>API Whatsapp</li>
 </ul>
 
